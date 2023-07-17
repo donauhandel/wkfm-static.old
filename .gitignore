@@ -145,3 +145,5 @@ desktop.ini
 # project specific
 data/
 html/*.xml
+html/*.txt
+html/*.rdf
