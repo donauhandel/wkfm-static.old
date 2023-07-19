@@ -10,3 +10,6 @@ mv ./wkfm-working-data-main/data/meta/ ./data
 
 rm main.zip
 rm -rf ./wkfm-working-data-main
+
+
+add-attributes -g "data/editions/*.xml" -b "https://id.acdh.oeaw.ac.at/wkfm"

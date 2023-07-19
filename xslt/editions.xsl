@@ -89,51 +89,14 @@
                                     <xsl:call-template name="annotation-options"></xsl:call-template>
                                 </div>
                             </div>
-                            <div id="container-resize" class="row transcript active">
-                                <div id="img-resize" class="col-md-6 col-lg-6 col-sm-12 facsimiles">
-                                    <div id="viewer">
-                                        <div id="container_facs_1">
-                                            <!-- container and facs handling in js -->
-                                        </div>
+                            <div>
+                                <div class="row">
+                                    <div class="col">
+                                        <img></img>
                                     </div>
+                                    <div class="col"><xsl:apply-templates select=".//tei:ab"/></div>
                                 </div>
-                                <div id="text-resize" class="col-md-6 col-lg-6 col-sm-12 text yes-index">
-                                    <div id="section">
-                                        <xsl:for-each select="//tei:body">
-                                            <div class="card-body">
-                                                <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                                    <xsl:for-each select="current-group()[self::tei:p|self::tei:lg|self::tei:pb]">
-                                                        <xsl:if test="name() = 'pb'">
-                                                            <span class="anchor-pb"></span>
-                                                            <span class="pb" source="{@facs}"><xsl:value-of select="@n"/></span>
-                                                        </xsl:if>
-                                                        <p><xsl:apply-templates/></p>
-                                                    </xsl:for-each>
-                                                </xsl:for-each-group>
-                                            </div>
-                                            <xsl:if test="//tei:note[@type='footnote']">
-                                                <div class="card-footer">
-                                                    <a class="anchor" id="footnotes"></a>
-                                                    <ul class="footnotes">
-                                                        <xsl:for-each select="//tei:note[@place='foot']">
-                                                            <li>
-                                                                <a class="anchorFoot" id="{@xml:id}"></a>
-                                                                <span class="footnote_link">
-                                                                    <a href="#{@xml:id}_inline" class="nounderline">
-                                                                        <xsl:value-of select="@n"/>
-                                                                    </a>
-                                                                </span>
-                                                                <span class="footnote_text">
-                                                                    <xsl:apply-templates/>
-                                                                </span>
-                                                            </li>
-                                                        </xsl:for-each>
-                                                    </ul>
-                                                </div>
-                                            </xsl:if>
-                                        </xsl:for-each>
-                                    </div>
-                                </div>
+                                
                             </div>
                             <!-- create list* elements for entities bs-modal -->
                             <xsl:for-each select="//tei:back">
