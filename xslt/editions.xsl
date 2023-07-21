@@ -54,7 +54,7 @@
                                             <h1>
                                                 <a>
                                                     <xsl:attribute name="href">
-                                                        <xsl:value-of select="replace($prev, '.html', '_facsimile.html')"/>
+                                                        <xsl:value-of select="$prev"/>
                                                     </xsl:attribute>
                                                     <i class="fas fa-chevron-left" title="prev"/>
                                                 </a>
@@ -76,7 +76,7 @@
                                             <h1>
                                                 <a>
                                                     <xsl:attribute name="href">
-                                                        <xsl:value-of select="replace($next, '.html', '_facsimile.html')"/>
+                                                        <xsl:value-of select="$next"/>
                                                     </xsl:attribute>
                                                     <i class="fas fa-chevron-right" title="next"/>
                                                 </a>
@@ -110,10 +110,13 @@
                 </div>
                 <script src="https://unpkg.com/de-micro-editor@0.2.6/dist/de-editor.min.js"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.0.0/openseadragon.min.js"></script>
-                <script type="text/javascript" src="js/osd_scroll.js"></script>
                 <script type="text/javascript" src="js/run.js"></script>
             </body>
         </html>
+    </xsl:template>
+    
+    <xsl:template match="tei:seg[@type]">
+        <h3><xsl:apply-templates/></h3>
     </xsl:template>
     
     <xsl:template match="tei:note">

@@ -33,9 +33,7 @@
     <xsl:template match="tei:date">
         <span class="date"><xsl:apply-templates/></span>
     </xsl:template>
-    <xsl:template match="tei:lb">
-        <br/>
-    </xsl:template>
+    
 
     <xsl:template match="tei:note">
         <xsl:element name="a">
@@ -135,12 +133,8 @@
         </xsl:element>
     </xsl:template>
 
-    <xsl:template match="tei:unclear">
-        <abbr title="unclear"><xsl:apply-templates/></abbr>
-    </xsl:template>
-    <xsl:template match="tei:del">
-        <del><xsl:apply-templates/></del>
-    </xsl:template>
+    
+    
     <xsl:template match="tei:rs">
         <xsl:choose>
             <xsl:when test="count(tokenize(@ref, ' ')) > 1">
@@ -644,17 +638,5 @@
             </div>
         </div> 
     </xsl:template>
-
-    <!-- <xsl:template match="tei:rs[@ref or @key]">
-        <strong>
-            <xsl:element name="a">
-                <xsl:attribute name="data-toggle">modal</xsl:attribute>
-                <xsl:attribute name="data-target">
-                    <xsl:value-of select="data(@ref)"/>
-                </xsl:attribute>
-                <xsl:value-of select="."/>
-            </xsl:element>
-        </strong>
-    </xsl:template> -->
     
 </xsl:stylesheet>
