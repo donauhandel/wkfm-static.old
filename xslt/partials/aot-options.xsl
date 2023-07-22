@@ -39,7 +39,7 @@
                 <li class="dropdown-item">
                     <annotation-slider opt="prs"></annotation-slider>
                 </li>
-                <li class="dropdown-item">
+                <!-- <li class="dropdown-item">
                     <annotation-slider opt="plc"></annotation-slider>
                 </li>
                 <li class="dropdown-item">
@@ -47,7 +47,7 @@
                 </li>
                 <li class="dropdown-item">
                     <annotation-slider opt="org"></annotation-slider>
-                </li>
+                </li> -->
             </ul>                                                    
         </div>
         
