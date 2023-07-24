@@ -8,6 +8,8 @@
     
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
+    <xsl:import href="./partials/osd-container.xsl"/>
+    <xsl:import href="./partials/tei-facsimile.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/shared.xsl"/>
     <xsl:import href="partials/aot-options.xsl"/>
@@ -27,8 +29,11 @@
     <xsl:variable name="doc_title">
         <xsl:value-of select=".//tei:title[@type='label'][1]/text()"/>
     </xsl:variable>
-    <xsl:variable name="facsUrl">
+    <xsl:variable name="facs-url">
         <xsl:value-of select="data(.//tei:pb[1]/@corresp)"/>
+    </xsl:variable>
+    <xsl:variable name="openSeadragonId">
+        <xsl:value-of select="'os-id-1'"/>
     </xsl:variable>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
@@ -42,6 +47,8 @@
                 </xsl:call-template>
             </head>
             <body class="page">
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"/>
+                <script src="js/osd_single.js"></script>
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
@@ -90,24 +97,22 @@
                                 </div>
                             </div>
                             <div>
-                                <div class="row">
-                                    <div class="col">
-                                        <div id="seadragonViewer" style="width:800px; height:600px;" class="facsimiles"></div>
-                                        <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js" integrity="sha512-VKBuvrXdP1AXvfs+m4l3ZNZSI4PFJF0K0hGJJZ4RiNRkvFMO4IwFRHkoTc7xsdZhMgkLn+Ioq4elndAZicBcRQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-                                        <script type="text/javascript">
-                                            OpenSeadragon({
-                                            id:            "seadragonViewer",
-                                            tileSources:   {
-                                            type: 'image',
-                                            homeFillsViewer: true,
-                                            url:  '<xsl:value-of select="$facsUrl"/>'
-                                            }
-                                            });
-                                        </script>
+                                
+                                <div id="container-resize" class="row transcript active">
+                                    <div id="img-resize" class="col-md-6 col-lg-6 col-sm-12 facsimiles">
+                                        
+                                            <div id="{$openSeadragonId}">
+                                                <img id="{$openSeadragonId}-img" src="{normalize-space($facs-url)}" onload="loadImage('{$openSeadragonId}')"></img>
+                                                <!-- cosy spot for OSD viewer  -->
+                                            </div>
+                                        
                                     </div>
-                                    <div class="col">
-                                        <xsl:apply-templates select=".//tei:ab"/>
+                                    <div id="text-resize" class="col-md-6 col-lg-6 col-sm-12 text yes-index">
+                                        <div id="section">
+                                            <xsl:apply-templates select=".//tei:ab"/>
+                                        </div>
                                     </div>
+                                    
                                 </div>
                                 
                             </div>
@@ -128,8 +133,9 @@
         </html>
     </xsl:template>
     
-    <xsl:template match="tei:seg[@type]">
-        <h3><xsl:apply-templates/></h3>
+    <xsl:template match="tei:seg[starts-with(@type, 'orighead')]">
+        <h4 stlye="text-align:center"><xsl:apply-templates/></h4>
+        <hr/>
     </xsl:template>
     
     <xsl:template match="tei:note">
