@@ -32,12 +32,7 @@
                                     <h3>Wiener Merkantilprotokoll</h3>
                                     <a href="toc.html" title="Edition ohne Faksimiles">
                                         <button class="btn btn-secondary" role="button" style="width: 250px;">
-                                            Edition ohne Faksimiles
-                                        </button>
-                                    </a>
-                                    <a href="toc_facs.html" title="Edition mit Faksimiles">
-                                        <button class="btn btn-secondary" role="button" style="width: 250px;">
-                                            Edition mit Faksimiles
+                                            Editionseinheiten
                                         </button>
                                     </a>
                                 </div>
@@ -49,7 +44,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container-fluid" style="margin:2em auto;">
+                    <!--<div class="container-fluid" style="margin:2em auto;">
                         <div class="row wrapper img_bottom">
                             <div class="col-md-6 col-lg-6 col-sm-12">
                                 <a href="toc.html" class="index-link">                                   
@@ -108,7 +103,7 @@
                                 </a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>

@@ -37,6 +37,9 @@
                                         <tr>
                                             <th scope="col">Nachname</th>
                                             <th scope="col">Vorname</th>
+                                            <th scope="col">Beruf</th>
+                                            <th scope="col">geboren</th>
+                                            <th scope="col">gestorben</th>
                                             <th scope="col">ID</th>
                                         </tr>
                                     </thead>
@@ -47,10 +50,19 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    <xsl:value-of select=".//tei:surname/text()"/>
+                                                    <xsl:value-of select=".//tei:surname[1]/text()"/>
                                                 </td>
                                                 <td>                                        
-                                                    <xsl:value-of select=".//tei:forename/text()"/>
+                                                    <xsl:value-of select=".//tei:forename[1]/text()"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:occupation[1]/text()"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:birth/tei:date"/>
+                                                </td>
+                                                <td>
+                                                    <xsl:value-of select="./tei:death/tei:date"/>
                                                 </td>
                                                 <td>
                                                     <a>

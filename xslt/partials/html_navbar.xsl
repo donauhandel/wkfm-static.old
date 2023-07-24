@@ -27,33 +27,11 @@
                                 </ul>
                             </li>
                             
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" >Editionseinheiten</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="toc.html" >Mit Faks</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="toc_facs.html" >Ohne Faks</a>
-                                    </li>
-                                </ul>
+                            <li class="nav-item">
+                                <a title="Editionseinheiten" class="nav-link" href="toc.html" >Editionseinheiten</a>
                             </li>
-                            <li class="nav-item dropdown disabled">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" >Register</a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="dropdown-item" href="listperson.html" >Personen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listplace.html" >Orte</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listorg.html" >Institutionen</a>
-                                    </li>
-                                    <li>
-                                        <a class="dropdown-item" href="listbibl.html" >Werke</a>
-                                    </li>
-                                </ul>
+                            <li class="nav-item">
+                                <a title="Personenregister" class="nav-link" href="listperson.html" >Personenregister</a>
                             </li>
                             
                             <li class="nav-item">
