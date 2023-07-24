@@ -109,7 +109,19 @@
                                     </div>
                                     <div id="text-resize" class="col-md-6 col-lg-6 col-sm-12 text yes-index">
                                         <div id="section">
-                                            <xsl:apply-templates select=".//tei:ab"/>
+                                            <div class="card-body">
+                                                <xsl:apply-templates select=".//tei:ab"/>
+                                            </div>
+                                            <div class="card-footer" style="padding-top:10em">
+                                                <xsl:for-each select=".//tei:note[@type='editorial_comment_note']">
+                                                    <xsl:variable name="runningNumber">
+                                                        <xsl:value-of select="position()"/>
+                                                    </xsl:variable>
+                                                    <a id="{'note_'||$runningNumber}" href="{'#anchor_'||$runningNumber}">
+                                                        <sup><xsl:value-of select="$runningNumber"/></sup>
+                                                    </a> <xsl:apply-templates/>
+                                                </xsl:for-each>
+                                            </div>
                                         </div>
                                     </div>
                                     
@@ -133,25 +145,23 @@
         </html>
     </xsl:template>
     
+    <xsl:template match="tei:hi[@style='superscript']">
+        <sup><xsl:apply-templates/></sup>
+    </xsl:template>
+    
     <xsl:template match="tei:seg[starts-with(@type, 'orighead')]">
-        <h4 stlye="text-align:center"><xsl:apply-templates/></h4>
+        <h4 style="text-align:center; padding-top:1em;"><xsl:apply-templates/></h4>
         <hr/>
     </xsl:template>
     
     <xsl:template match="tei:note">
-        <xsl:choose>
-            <xsl:when test="@place='foot'">
-                <a class="anchorFoot" id="{@xml:id}_inline"></a>
-                <a href="#{@xml:id}" title="Fußnote {@n}" class="nounderline">
-                    <sup><xsl:value-of select="@n"/></sup>
-                </a>
-            </xsl:when>
-            <xsl:when test="@place='end'">
-                <a class="anchorFoot" id="{@xml:id}_inline"></a>
-                <a href="#{@xml:id}" title="Fußnote {@n}" class="nounderline">
-                    <sup><xsl:value-of select="@n"/></sup>
-                </a>
-            </xsl:when>
-        </xsl:choose>
+        <xsl:for-each select=".">
+            <xsl:variable name="runningNumber">
+                <xsl:value-of select="position()"/>
+            </xsl:variable>
+            <a id="{'anchor_'||$runningNumber}" href="{'#note_'||$runningNumber}">
+                <sup><xsl:value-of select="$runningNumber"/></sup>
+            </a>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
