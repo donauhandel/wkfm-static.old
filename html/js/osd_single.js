@@ -17,7 +17,7 @@ function loadImage(container_id) {
     // OpenSeaDragon Image Viewer
     var viewer = OpenSeadragon({
         id: container_id,
-        prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.0.0/images/",
+        prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
         defaultZoomLevel: 0,
         fitHorizontally: true,
         tileSources: imageURL,
