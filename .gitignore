@@ -142,7 +142,9 @@ desktop.ini
 .DS_Store
 
 # project specific
-data/
+data/editions/
+data/indices/
+data/meta/
 html/*.xml
 html/*.txt
 html/*.rdf
