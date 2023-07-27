@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "downloading imprint"
 REDMINE_ID=20289
 IMPRINT_XML=./data/imprint.xml
 rm ${IMPRINT_XML}
