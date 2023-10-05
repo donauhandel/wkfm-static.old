@@ -121,17 +121,17 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43995">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Hirtmayr</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
-                <person xml:id="wkfm__43994">
+    <back><listPerson><person xml:id="wkfm__43994">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Melzer</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>
+                <person xml:id="wkfm__43995">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Hirtmayr</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0302.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0302</note></noteGrp></person>

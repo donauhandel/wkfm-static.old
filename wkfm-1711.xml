@@ -120,17 +120,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__44148" sameAs="#wkfm__19875 ">
+    <back><listPerson><person xml:id="wkfm__46953">
                      <persName>
-                        <forename>Giulio Maria</forename>
-                        <forename type="alt">Julius Maria</forename>
-                        <surname>Sonzogno</surname>
-                        <surname type="alt">Sonzogna</surname>
-                        <surname type="alt">von Sonzogno</surname>
+                        <forename>Dominicus</forename>
+                        <surname>Barbuzzi</surname>
                      </persName>
-                     <occupation>Handelsmann, Wechsler</occupation>
-                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
+                     <occupation>Prokurist bei Wenzell &amp; Co. (Arnold Philipp de Werzelli)</occupation>
+               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></person>
                 <person xml:id="wkfm__46950">
                      <persName>
                         <forename>Arnold Philipp</forename>
@@ -144,12 +140,16 @@
                         <bibl>Staats- und Standeskalender 1723, 241.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1622.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1622</note><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
-                <person xml:id="wkfm__46953">
+                <person xml:id="wkfm__44148" sameAs="#wkfm__19875 ">
                      <persName>
-                        <forename>Dominicus</forename>
-                        <surname>Barbuzzi</surname>
+                        <forename>Giulio Maria</forename>
+                        <forename type="alt">Julius Maria</forename>
+                        <surname>Sonzogno</surname>
+                        <surname type="alt">Sonzogna</surname>
+                        <surname type="alt">von Sonzogno</surname>
                      </persName>
-                     <occupation>Prokurist bei Wenzell &amp; Co. (Arnold Philipp de Werzelli)</occupation>
-               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note></noteGrp></person>
+                     <occupation>Handelsmann, Wechsler</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1711.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1711</note><note target="wkfm-1712.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1712</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

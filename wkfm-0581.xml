@@ -111,10 +111,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__6849">
+    <back><listPerson><person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
                      <persName>
-                        <forename>Erdmann</forename>
-                        <surname>Tech</surname>
+                        <forename>Johann Gottlob</forename>
+                        <surname>Hess</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
@@ -126,10 +126,10 @@
                      </persName>
                      <occupation>Buchhalter und Prokurist des Erdmann Tech</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></person>
-                <person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
+                <person xml:id="wkfm__6849">
                      <persName>
-                        <forename>Johann Gottlob</forename>
-                        <surname>Hess</surname>
+                        <forename>Erdmann</forename>
+                        <surname>Tech</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
