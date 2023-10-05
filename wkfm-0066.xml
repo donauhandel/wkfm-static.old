@@ -82,7 +82,7 @@
                <lb facs="#facs_13_r1l2" n="N003"/><rs type="person" ref="#wkfm__8412">Prunner Georg</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_13_r1l3" n="N004"/><seg type="orighead__firma">Firma oder Raggion</seg>
                <lb facs="#facs_13_r1l4" n="N005"/><rs type="person" ref="#wkfm__47273">Georg Prunner</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886
-               <lb facs="#facs_13_r1l5" n="N006"/>Procura oder Firmae Trager
+               <lb facs="#facs_13_r1l5" n="N006"/><seg type="orighead__owner">Procura oder Firmae Trager</seg>
                <lb facs="#facs_13_r1l6" n="N007"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886 hat sich der <rs type="person" ref="#wkfm__8412">Prunner</rs> Erklähret
                <lb facs="#facs_13_line_1621289775395_697" n="N008"/>daß in seiner Abwesenheit des <rs type="person" ref="#wkfm__43804">Marx Anton Tuesenstein</rs> Firma biß auf wider-
                <lb facs="#facs_13_r1l9" n="N009"/>ruffung Glauben zugeben seye.
@@ -92,7 +92,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
+    <back><listPerson><person xml:id="wkfm__43804">
+                     <persName>
+                        <forename>Marx Anton</forename>
+                        <surname>Tuesenstein</surname>
+                     </persName>
+                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
+               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
+                <person xml:id="wkfm__8412" sameAs="#wkfm__10731 wkfm__12382 ">
                      <persName>
                         <forename>Georg</forename>
                         <surname>Prunner</surname>
@@ -103,12 +110,5 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;div&amp;gt;Ksl. Staats- und Standeskalender 1721, S. 242.&amp;lt;/div&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note><note target="wkfm-0067.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0067</note></noteGrp></person>
-                <person xml:id="wkfm__43804">
-                     <persName>
-                        <forename>Marx Anton</forename>
-                        <surname>Tuesenstein</surname>
-                     </persName>
-                     <occupation>Wechselsensal, Prokurist bei Georg Prunner</occupation>
-               <noteGrp><note target="wkfm-0066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0066</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -131,6 +131,12 @@
                         <bibl>Budischowky, Die Edlen von Tschoffen, 175-179, 187; Mittenzwei, Zwischen Gestern und Morgen, 81 und passim (dort als Protestant geführt).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
+                <person xml:id="wkfm__29581">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>von Senger</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 <person xml:id="wkfm__46293">
                      <persName>
                         <forename>Johann Thaddäus</forename>
@@ -142,11 +148,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 337 (Februar 1747).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0050.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0050</note><note target="wkfm-0051.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0051</note><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
-                <person xml:id="wkfm__29581">
-                     <persName>
-                        <forename>None</forename>
-                        <surname>von Senger</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0607.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0607</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
