@@ -118,7 +118,7 @@
                <lb facs="#facs_77_r2l18" n="N018"/>Monath Junii die zwischen ihm und dem <rs type="person" ref="#wkfm__8593">Johann Maria Tinti</rs> vorgeweste societaet sich geendiget
                <lb facs="#facs_77_r2l19" n="N019"/>so habe er entschlossen sein negotium mit hinlänglichen Mittlen und Capitalien <hi>zu</hi> unter 
                <lb facs="#facs_77_r2l20" n="N020"/>seinen Nahmen zu continuiren
-               <lb facs="#facs_77_r2l21" n="N021"/><seg type="editorial_comment_seg">Fundi Ausweisung<note type="editorial_comment_note">Der folgende Text ist die Fortsetzung der Rubrik Procura und Firmae Trager</note></seg>
+               <lb facs="#facs_77_r2l21" n="N021"/><seg type="orighead__fundi">Fundi Ausweisung</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Der folgende Text ist die Fortsetzung der Rubrik Procura und Firmae Trager</note></seg>
                <lb facs="#facs_77_r2l22" n="N022"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 991 hat der <rs type="person" ref="#wkfm__15932">Heller</rs> die seinem Cassier
                <lb facs="#facs_77_r2l23" n="N023"/><rs type="person" ref="#wkfm__46494">Ignaz Kreuter</rs> wehrend<hi>er</hi> seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit
                <lb facs="#facs_77_r2l24" n="N024"/>beygerukter Firma des <rs type="person" ref="#wkfm__46494">Kreuter</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 733 N<hi style="superscript">o</hi> 990 eingeleget.
@@ -140,21 +140,6 @@
                      </persName>
                      <occupation>Kassier und Prokurist bei Johann Fortunat Heller</occupation>
                <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
-                <person xml:id="wkfm__15932" sameAs="#wkfm__28189 wkfm__36292 wkfm__39443 ">
-                     <persName>
-                        <forename>Johann Fortunat</forename>
-                        <surname>Heller</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note></noteGrp></person>
-                <person xml:id="wkfm__46495">
-                     <persName>
-                        <forename>Jakob</forename>
-                        <surname>Pfändl</surname>
-                     </persName>
-                     <occupation>Direktor der Firma Johann Fortunat Heller, Prokurist bei Johann Fortunat Heller</occupation>
-               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__8593">
                      <persName>
                         <forename>Johann Maria</forename>
@@ -165,6 +150,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0194.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0194</note><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note><note target="wkfm-1471.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1471</note><note target="wkfm-1472.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1472</note></noteGrp></person>
+                <person xml:id="wkfm__46495">
+                     <persName>
+                        <forename>Jakob</forename>
+                        <surname>Pfändl</surname>
+                     </persName>
+                     <occupation>Direktor der Firma Johann Fortunat Heller, Prokurist bei Johann Fortunat Heller</occupation>
+               <noteGrp><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
                 <person xml:id="wkfm__22363" sameAs="#wkfm__10517 ">
                      <persName>
                         <forename>Christian Daniel</forename>
@@ -173,5 +165,13 @@
                      <occupation>Handelsmann, Prokurist bei Johann Fortunat Heller</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0757.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0757</note><note target="wkfm-0758.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0758</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note></noteGrp></person>
+                <person xml:id="wkfm__15932" sameAs="#wkfm__28189 wkfm__36292 wkfm__39443 ">
+                     <persName>
+                        <forename>Johann Fortunat</forename>
+                        <surname>Heller</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0195.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0195</note><note target="wkfm-0997.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0997</note><note target="wkfm-0998.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0998</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -84,25 +84,21 @@
                <lb break="no" facs="#facs_134_line_1621876973407_436" n="N005"/>und Compagnie</rs> vorgeweste Societaet unter nemlichen dato geendiget, und er die <rs type="person" ref="#wkfm__47184">Kircheisische</rs> übernohmene
                <lb facs="#facs_134_r1l7" n="N006"/>Handlung unter seinen alleinigen Nahmen und obligo forsezen werde.
                <lb facs="#facs_134_r1l8" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_134_r1l9" n="N008"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Diese Anmerkung bezieht sich auf den folgenden Eintrag zu Anton Faber</note></seg>
+               <lb facs="#facs_134_r1l9" n="N008"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Diese Anmerkung bezieht sich auf den folgenden Eintrag zu Anton Faber</note></seg>
                <lb facs="#facs_134_r1l10" n="N009"/>Anno 795. hat dessen Sohn <rs type="person" ref="#wkfm__47187">Franz Joh Faber</rs> die Handlung
                <lb facs="#facs_134_r1l11" n="N010"/>übernohmen P. <unclear>ot Mr</unclear> III. F. 71. <unclear>fog</unclear> 12.
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47178">
+    <back><listPerson><person xml:id="wkfm__47187">
                      <persName>
-                        <forename>Adam Christian</forename>
-                        <surname>Volkmar</surname>
-                        <surname type="alt">Volckmayr</surname>
+                        <forename>Johann Franz</forename>
+                        <surname>Faber</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Senfelder, Gottesacker, 257.&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
                 <person xml:id="wkfm__47181">
                      <persName>
                         <forename>Karl Heinrich</forename>
@@ -114,13 +110,17 @@
                         <bibl>Senfelder, Gottesacker, 257.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note><note target="wkfm-1609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1609</note><note target="wkfm-1610.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1610</note></noteGrp></person>
-                <person xml:id="wkfm__47187">
+                <person xml:id="wkfm__47178">
                      <persName>
-                        <forename>Johann Franz</forename>
-                        <surname>Faber</surname>
+                        <forename>Adam Christian</forename>
+                        <surname>Volkmar</surname>
+                        <surname type="alt">Volckmayr</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Senfelder, Gottesacker, 257.&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0801.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0801</note><note target="wkfm-0802.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0802</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

@@ -112,11 +112,10 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47041">
+    <back><listPerson><person xml:id="wkfm__47040">
                      <persName>
-                        <forename>Maria Anna</forename>
+                        <forename>Theresia Josepha</forename>
                         <surname>Weidinger</surname>
-                        <surname type="alt">Wis[...?]</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__10599">
@@ -134,10 +133,11 @@
                         <surname>Pfefferlin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
-                <person xml:id="wkfm__47040">
+                <person xml:id="wkfm__47041">
                      <persName>
-                        <forename>Theresia Josepha</forename>
+                        <forename>Maria Anna</forename>
                         <surname>Weidinger</surname>
+                        <surname type="alt">Wis[...?]</surname>
                      </persName>
                <noteGrp><note target="wkfm-1815.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1815</note></noteGrp></person>
                 <person xml:id="wkfm__47037">

@@ -118,7 +118,7 @@
                <lb facs="#facs_95_r1l22" n="N021"/><choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft welchen derselbe kund gemacht, daß, nachdem die Raggion <rs type="person" ref="#wkfm__8067">Heß
                <lb break="no" facs="#facs_95_r1l23" n="N022"/>und Thech</rs> geendiget seye, so habe er endschlossen <hi>solche</hi> das Negotium unter seinen eigenen
                <lb facs="#facs_95_r1l24" n="N023"/>Nahmen <rs type="person" ref="#wkfm__46509">Johann Gottlob Heß</rs> <hi>zu renoviren</hi> und mit eigenen interesse zu renoviren.
-               <lb facs="#facs_95_r1l25" n="N024"/><seg type="editorial_comment_seg">Fundi Ausweisung<note type="editorial_comment_note">Der Text bezieht sich auf die Rubrik Procura und Firmae Trager</note></seg>
+               <lb facs="#facs_95_r1l25" n="N024"/><seg type="orighead__fundi">Fundi Ausweisung</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Der Text bezieht sich auf die Rubrik Procura und Firmae Trager</note></seg>
                <lb facs="#facs_95_r1l26" n="N025"/><hi>0</hi>
                <lb facs="#facs_95_r1l27" n="N026"/>widerrufen anbey die <hi>dem</hi> seinem Buchhalter <rs type="person" ref="#wkfm__37608">Joachim Andre Preß</rs> <hi>ert</hi> wehrend
                <lb facs="#facs_95_r1l28" n="N027"/>seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> May 738 mit beygerukter 
@@ -127,13 +127,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__34650" sameAs="#wkfm__41535 wkfm__34651 ">
+    <back><listPerson><person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
                      <persName>
-                        <forename>Leonhard Balthasar</forename>
-                        <surname>Schkler</surname>
+                        <forename>Johann Gottlob</forename>
+                        <surname>Hess</surname>
                      </persName>
-                     <occupation>Buchhalter und Prokurist bei Hess und Tech und bei Johann Gottlob Hess</occupation>
-               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
+               <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
                 <person xml:id="wkfm__6849">
                      <persName>
                         <forename>Erdmann</forename>
@@ -149,13 +150,12 @@
                      </persName>
                      <occupation>Buchhalter und Prokurist bei Johann Gottlob Hess</occupation>
                <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
-                <person xml:id="wkfm__26689" sameAs="#wkfm__27506 wkfm__31306 wkfm__31325 ">
+                <person xml:id="wkfm__34650" sameAs="#wkfm__41535 wkfm__34651 ">
                      <persName>
-                        <forename>Johann Gottlob</forename>
-                        <surname>Hess</surname>
+                        <forename>Leonhard Balthasar</forename>
+                        <surname>Schkler</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note><note target="wkfm-0582.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0582</note><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note><note target="wkfm-1016.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1016</note></noteGrp></person>
+                     <occupation>Buchhalter und Prokurist bei Hess und Tech und bei Johann Gottlob Hess</occupation>
+               <noteGrp><note target="wkfm-1015.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1015</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

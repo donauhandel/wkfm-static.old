@@ -109,22 +109,21 @@
                <lb facs="#facs_102_r1l19" n="N017"/>zu gleichen theilen seyn bey <unclear>ereignenden</unclear> todfall solle der Stand der Handlung durch zwey verständige <unclear>mercatori</unclear>
                <lb facs="#facs_102_r1l20" n="N018"/><gap/> <unclear>entfernt,</unclear> und fals selbe nicht ubereinkommen durch den dritten, wie auch alle zwistigkeiten <unclear>kunftig</unclear>
                <lb facs="#facs_102_r1l21" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_102_r1l22" n="N020"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg>
+               <lb facs="#facs_102_r1l22" n="N020"/><seg type="orighead__other_notes">Anmerckungen</seg><seg type="editorial_comment_seg"><note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg>
                <lb facs="#facs_102_r1l23" n="N021"/><hi>0</hi> zwey verständige entschiden werden, und jeder bey 1000 fl Pönn zu <unclear>aquiesciren</unclear>
                <lb facs="#facs_102_r1l24" n="N022"/>schuldig seye
             </ab>
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46784">
+    <back><listPerson><person xml:id="wkfm__46785">
                      <persName>
-                        <forename>Michael Augustin</forename>
-                        <surname>Mayr</surname>
+                        <forename>Jakob</forename>
+                        <surname>Lang</surname>
                      </persName>
-                     <death><date>1775</date></death>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
                 <person xml:id="wkfm__8089">
                      <persName>
                         <forename>Anton</forename>
@@ -134,13 +133,14 @@
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
                <noteGrp><note target="wkfm-1109.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1109</note><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
-                <person xml:id="wkfm__46785">
+                <person xml:id="wkfm__46784">
                      <persName>
-                        <forename>Jakob</forename>
-                        <surname>Lang</surname>
+                        <forename>Michael Augustin</forename>
+                        <surname>Mayr</surname>
                      </persName>
+                     <death><date>1775</date></death>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1181.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1181</note><note target="wkfm-1182.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1182</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1110.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1110</note><note target="wkfm-1285.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1285</note><note target="wkfm-1286.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1286</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
