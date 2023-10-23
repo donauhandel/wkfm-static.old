@@ -94,13 +94,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__28228">
-                     <persName>
-                        <forename>Johann Kaspar</forename>
-                        <surname>Kern</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
-                <person xml:id="wkfm__2848">
+    <back><listPerson><person xml:id="wkfm__2848">
                      <persName>
                         <forename>Matthias</forename>
                         <surname>Kern</surname>
@@ -115,6 +109,12 @@
                         <surname>Kern</surname>
                      </persName>
                      <occupation>Handelsfrau</occupation>
+               <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
+                <person xml:id="wkfm__28228">
+                     <persName>
+                        <forename>Johann Kaspar</forename>
+                        <surname>Kern</surname>
+                     </persName>
                <noteGrp><note target="wkfm-0355.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0355</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

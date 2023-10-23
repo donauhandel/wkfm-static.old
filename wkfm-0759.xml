@@ -145,7 +145,14 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__42886">
+    <back><listPerson><person xml:id="wkfm__36096">
+                     <persName>
+                        <forename>Anton</forename>
+                        <surname>Puchberger</surname>
+                     </persName>
+                     <occupation>Prokurist der Firma Bernhard Falquet</occupation>
+               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note></noteGrp></person>
+                <person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Falquet</surname>
@@ -166,13 +173,6 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
                <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note><note target="wkfm-0760.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0760</note></noteGrp></person>
-                <person xml:id="wkfm__36096">
-                     <persName>
-                        <forename>Anton</forename>
-                        <surname>Puchberger</surname>
-                     </persName>
-                     <occupation>Prokurist der Firma Bernhard Falquet</occupation>
-               <noteGrp><note target="wkfm-0759.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0759</note></noteGrp></person>
                 <person xml:id="wkfm__47120">
                      <persName>
                         <forename>Ludwig</forename>

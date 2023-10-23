@@ -90,6 +90,6 @@
                      </persName>
                      <occupation>Handelsmann, Wechselherr</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

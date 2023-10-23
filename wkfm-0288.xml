@@ -85,7 +85,15 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43969">
+    <back><listPerson><person xml:id="wkfm__43972">
+                     <persName>
+                        <forename>Valerio</forename>
+                        <surname>Valentini</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
+                <person xml:id="wkfm__43969">
                      <persName>
                         <forename>Joseph</forename>
                         <surname>Patuzzi</surname>
@@ -102,14 +110,6 @@
                      <persName>
                         <forename>Bartholomäus</forename>
                         <surname>Antegnati</surname>
-                     </persName>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0288.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0288</note></noteGrp></person>
-                <person xml:id="wkfm__43972">
-                     <persName>
-                        <forename>Valerio</forename>
-                        <surname>Valentini</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>

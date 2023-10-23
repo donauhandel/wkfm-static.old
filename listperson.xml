@@ -1087,7 +1087,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation>Prokurist bei Johann Peter Augustin, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-1557.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1557</note><note target="wkfm-1558.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1558</note></noteGrp></person>
                 <person xml:id="wkfm__43785">
                      <persName>
                         <forename>Franz</forename>
@@ -6399,7 +6399,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <occupation>Handelsmann, Wechselherr</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0008.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0008</note><note target="wkfm-0009.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0009</note></noteGrp></person>
                 <person xml:id="wkfm__9920">
                      <persName>
                         <forename>Johann Baptist</forename>

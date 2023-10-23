@@ -122,13 +122,12 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__43982">
+    <back><listPerson><person xml:id="wkfm__43983">
                      <persName>
-                        <forename>Maria Elisabeth</forename>
-                        <surname>Pachin</surname>
-                        <surname type="alt">Pertholdin</surname>
+                        <forename>Franz Xaver</forename>
+                        <surname>Pach</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
+                     <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
                 <person xml:id="wkfm__43981">
                      <persName>
@@ -141,12 +140,13 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 475 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0295.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0295</note><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
-                <person xml:id="wkfm__43983">
+                <person xml:id="wkfm__43982">
                      <persName>
-                        <forename>Franz Xaver</forename>
-                        <surname>Pach</surname>
+                        <forename>Maria Elisabeth</forename>
+                        <surname>Pachin</surname>
+                        <surname type="alt">Pertholdin</surname>
                      </persName>
-                     <occupation>Handelsmann</occupation>
+                     <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0296.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0296</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
