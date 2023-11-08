@@ -88,6 +88,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0570</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0569</note><note target="wkfm-0570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0570</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

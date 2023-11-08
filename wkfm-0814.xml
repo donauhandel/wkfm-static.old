@@ -88,6 +88,6 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0814.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0814</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0813.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0813</note><note target="wkfm-0814.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0814</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

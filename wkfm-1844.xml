@@ -102,7 +102,7 @@
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573 (Dezember 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
                 <person xml:id="wkfm__43859">
                      <persName>
                         <forename>Elisabeth</forename>

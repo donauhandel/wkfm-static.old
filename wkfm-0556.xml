@@ -88,6 +88,6 @@
                      </persName>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

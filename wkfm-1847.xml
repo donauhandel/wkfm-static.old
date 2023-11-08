@@ -122,12 +122,6 @@
                         <surname>Ziegler</surname>
                      </persName>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
-                <person xml:id="wkfm__46610">
-                     <persName>
-                        <forename>Andre</forename>
-                        <surname>Ziegler</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
                 <person xml:id="wkfm__43863">
                      <persName>
                         <forename>Franz Anton</forename>
@@ -145,5 +139,11 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 571 (Februar 1747: &amp;#34;Philipp&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note><note target="wkfm-1848.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1848</note></noteGrp></person>
+                <person xml:id="wkfm__46610">
+                     <persName>
+                        <forename>Andre</forename>
+                        <surname>Ziegler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1847.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1847</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

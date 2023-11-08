@@ -92,6 +92,6 @@
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1866</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1865</note><note target="wkfm-1866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1866</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

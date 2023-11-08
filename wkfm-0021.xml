@@ -93,6 +93,6 @@
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 338 (20. Mai 1715).</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0021</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0020.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0020</note><note target="wkfm-0021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0021</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

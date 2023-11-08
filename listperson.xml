@@ -138,7 +138,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0826.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0826</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0825.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0825</note><note target="wkfm-0826.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0826</note></noteGrp></person>
                 <person xml:id="wkfm__8487">
                      <persName>
                         <forename>Joseph</forename>
@@ -202,6 +202,15 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>Johann Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2 (Leipzig 1720) 1575; Staats- und Standeskalender 1723, 242..</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0074</note><note target="wkfm-0075.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0075</note></noteGrp></person>
+                <person xml:id="wkfm__8672" sameAs="#wkfm__22205 ">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Orenghin</surname>
+                        <surname type="alt">Orenghy</surname>
+                     </persName>
+                     <occupation>Handelsfrau</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+               <noteGrp><note target="wkfm-1339.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1339</note></noteGrp></person>
                 <person xml:id="wkfm__8701" sameAs="#wkfm__10165 ">
                      <persName>
                         <forename>Johann Heinrich</forename>
@@ -422,7 +431,7 @@ Oberdeutsche Selbstzeugnisse 1500-1850 5, Basel 2012) 39 [mit Hinweis auf Wien u
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-0814.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0814</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0813.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0813</note><note target="wkfm-0814.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0814</note></noteGrp></person>
                 <person xml:id="wkfm__11161">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -519,7 +528,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname>Polti</surname>
                      </persName>
                      <occupation>Handelsmann</occupation>
-               <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note><note target="wkfm-0057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0057</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0056</note><note target="wkfm-0057.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0057</note><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note></noteGrp></person>
                 <person xml:id="wkfm__12091">
                      <persName>
                         <forename>None</forename>
@@ -657,6 +666,13 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 418 (November 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0993.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0993</note><note target="wkfm-0994.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0994</note></noteGrp></person>
+                <person xml:id="wkfm__17851">
+                     <persName>
+                        <forename>Johann Georg</forename>
+                        <surname>Dietmann</surname>
+                     </persName>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__18086">
                      <persName>
                         <forename>Joseph</forename>
@@ -822,7 +838,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation>Handelsmann, Angestellter und Prokurist des Lorenz Heigl</occupation>
                      <occupation type="kaufmannsklasse">Niederleger/Niederlage</occupation>
-               <noteGrp><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0869</note><note target="wkfm-0870.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0870</note><note target="wkfm-0941.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0941</note><note target="wkfm-1780.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1780</note></noteGrp></person>
                 <person xml:id="wkfm__25805">
                      <persName>
                         <forename>Gregor</forename>
@@ -1107,7 +1123,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 338 (28. April 1724).</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0029</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0028.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0028</note><note target="wkfm-0029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0029</note></noteGrp></person>
                 <person xml:id="wkfm__43790">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -1379,6 +1395,12 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname>Geislerin zu Reichenau</surname>
                      </persName>
                <noteGrp><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
+                <person xml:id="wkfm__43861">
+                     <persName>
+                        <forename>Paul</forename>
+                        <surname>Stumer</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
                 <person xml:id="wkfm__43863">
                      <persName>
                         <forename>Franz Anton</forename>
@@ -1398,13 +1420,19 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname>Assolin</surname>
                         <surname type="alt">Zacher</surname>
                      </persName>
-               <noteGrp><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
                 <person xml:id="wkfm__43873">
                      <persName>
                         <forename>Maria Franziska</forename>
                         <surname>Wolfmayrin</surname>
                      </persName>
                <noteGrp><note target="wkfm-1086.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1086</note></noteGrp></person>
+                <person xml:id="wkfm__43875">
+                     <persName>
+                        <forename>Theresia</forename>
+                        <surname>Jezingerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1087</note></noteGrp></person>
                 <person xml:id="wkfm__43878">
                      <persName>
                         <forename>Theresia</forename>
@@ -2188,6 +2216,13 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation>Angestellter und Prokurist des Johann Michael Dietmann</occupation>
                <noteGrp><note target="wkfm-0515.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0515</note></noteGrp></person>
+                <person xml:id="wkfm__46237">
+                     <persName>
+                        <forename>Johann Joseph Karl</forename>
+                        <surname>Zwirner</surname>
+                     </persName>
+                     <occupation>Prokurist des Ruprecht Traunpauer</occupation>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__46239">
                      <persName>
                         <forename>Hermann Friedrich</forename>
@@ -2232,7 +2267,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0570</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0569.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0569</note><note target="wkfm-0570.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0570</note></noteGrp></person>
                 <person xml:id="wkfm__46250">
                      <persName>
                         <forename>Ludwig</forename>
@@ -2286,6 +2321,19 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation>Buchhalter und Prokurist des Erdmann Tech</occupation>
                <noteGrp><note target="wkfm-0581.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0581</note></noteGrp></person>
+                <person xml:id="wkfm__46263">
+                     <persName>
+                        <forename>Leopoldina</forename>
+                        <surname>Dellmor</surname>
+                        <surname type="alt">von Lumaga</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0583</note></noteGrp></person>
+                <person xml:id="wkfm__46266">
+                     <persName>
+                        <forename>Judith</forename>
+                        <surname>Diewald</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></person>
                 <person xml:id="wkfm__46269">
                      <persName>
                         <forename>Maria Theresia</forename>
@@ -2298,7 +2346,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname>Wiegathin</surname>
                         <surname type="alt">Dietschi</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note></noteGrp></person>
                 <person xml:id="wkfm__46281">
                      <persName>
                         <forename>Anna Maria</forename>
@@ -2355,6 +2403,19 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname type="alt">Götz</surname>
                      </persName>
                <noteGrp><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note></noteGrp></person>
+                <person xml:id="wkfm__46352">
+                     <persName>
+                        <forename>Agnes</forename>
+                        <surname>Graf</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0885</note></noteGrp></person>
+                <person xml:id="wkfm__46355">
+                     <persName>
+                        <forename>Barbara</forename>
+                        <surname>Gewey</surname>
+                        <surname type="alt">Kracherin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
                 <person xml:id="wkfm__46358">
                      <persName>
                         <forename>Anna Maria</forename>
@@ -2368,6 +2429,37 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      </persName>
                      <occupation type="aemter">Richter</occupation>
                <noteGrp><note target="wkfm-0891.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0891</note></noteGrp></person>
+                <person xml:id="wkfm__46364">
+                     <persName>
+                        <forename>Michael Joseph</forename>
+                        <surname>Gschaidter</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note></noteGrp></person>
+                <person xml:id="wkfm__46366">
+                     <persName>
+                        <forename>Johann</forename>
+                        <surname>Gülschwendt</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                <person xml:id="wkfm__46368">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Aichler</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                <person xml:id="wkfm__46369">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Ott</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
+                <person xml:id="wkfm__46370">
+                     <persName>
+                        <forename>None</forename>
+                        <surname>Klingerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0895.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0895</note></noteGrp></person>
                 <person xml:id="wkfm__46372">
                      <persName>
                         <forename>Katharina</forename>
@@ -2400,6 +2492,13 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname type="alt">Gropp</surname>
                      </persName>
                <noteGrp><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
+                <person xml:id="wkfm__46388">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Bertola</surname>
+                        <surname type="alt">Grämbsreither</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note></noteGrp></person>
                 <person xml:id="wkfm__46397">
                      <persName>
                         <forename>Georg</forename>
@@ -2415,6 +2514,14 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
                <noteGrp><note target="wkfm-0931.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0931</note><note target="wkfm-0932.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0932</note></noteGrp></person>
+                <person xml:id="wkfm__46422">
+                     <persName>
+                        <forename>Elisabeth</forename>
+                        <surname>Driglerin</surname>
+                        <surname type="alt">Eibl</surname>
+                        <surname type="alt">Drieglerin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note></noteGrp></person>
                 <person xml:id="wkfm__46425">
                      <persName>
                         <forename>Juliana Barbara</forename>
@@ -2551,6 +2658,26 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <surname type="alt">Hütter</surname>
                      </persName>
                <noteGrp><note target="wkfm-1010.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1010</note></noteGrp></person>
+                <person xml:id="wkfm__46512" sameAs="#wkfm__11115 ">
+                     <persName>
+                        <forename>Anna Maria Elisabetha</forename>
+                        <surname>Strasserin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
+                <person xml:id="wkfm__46513">
+                     <persName>
+                        <forename>Melchior</forename>
+                        <surname>Spenger</surname>
+                     </persName>
+                     <occupation>Richter zu Maria Hilf</occupation>
+                     <occupation type="aemter">Richter</occupation>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
+                <person xml:id="wkfm__46514">
+                     <persName>
+                        <forename>Maria Magdalena</forename>
+                        <surname>Helmsteiner</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46520">
                      <persName>
                         <forename>Maria Magdalena</forename>
@@ -4368,7 +4495,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1866</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1865.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1865</note><note target="wkfm-1866.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1866</note></noteGrp></person>
                 <person xml:id="wkfm__16033">
                      <persName>
                         <forename>Marx Lion</forename>
@@ -4381,6 +4508,18 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1859.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1859</note><note target="wkfm-1860.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1860</note></noteGrp></person>
+                <person xml:id="wkfm__16903">
+                     <persName>
+                        <forename>Herz Leb</forename>
+                        <surname>Manasses</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">jüdisch</occupation>
+                     <occupation type="aemter">Hofjude</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;div&amp;gt;Grunwald, Oppenheimer, S. 202.&amp;lt;/div&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1871.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1871</note></noteGrp></person>
                 <person xml:id="wkfm__17496">
                      <persName>
                         <forename>Bernhard</forename>
@@ -4392,6 +4531,12 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1857.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1857</note><note target="wkfm-1858.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1858</note></noteGrp></person>
+                <person xml:id="wkfm__18390">
+                     <persName>
+                        <forename>Samuel</forename>
+                        <surname>Seligman</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__18522">
                      <persName>
                         <forename>Abraham</forename>
@@ -4424,7 +4569,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1868.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1868</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1867.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1867</note><note target="wkfm-1868.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1868</note></noteGrp></person>
                 <person xml:id="wkfm__30361">
                      <persName>
                         <forename>Nathan</forename>
@@ -4435,7 +4580,7 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__43581">
                      <persName>
                         <forename>Isaak Nathan</forename>
@@ -4484,6 +4629,13 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1869.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1869</note></noteGrp></person>
+                <person xml:id="wkfm__43825">
+                     <persName>
+                        <forename>Veronika</forename>
+                        <surname>None</surname>
+                     </persName>
+                     <occupation>Prokuristin des Herz Löw Manasses</occupation>
+               <noteGrp><note target="wkfm-1871.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1871</note></noteGrp></person>
                 <person xml:id="wkfm__43826">
                      <persName>
                         <forename>Samuel Emanuel</forename>
@@ -4512,6 +4664,25 @@ Porzellan des Klassizismus. Die Ära Conrad von Sorgenthal 1784-1805 (Wien
                      <occupation>Ehefrau und Prokuristin des Samuel Simon</occupation>
                      <occupation type="kaufmannsklasse">jüdisch</occupation>
                <noteGrp><note target="wkfm-1887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1887</note><note target="wkfm-1888.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1888</note></noteGrp></person>
+                <person xml:id="wkfm__43830">
+                     <persName>
+                        <forename>Abraham</forename>
+                        <surname>Leidesdorf</surname>
+                     </persName>
+                     <occupation>Prokurist des Nathan Seligmann</occupation>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43831">
+                     <persName>
+                        <forename>Simon</forename>
+                        <surname>Ables</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
+                <person xml:id="wkfm__43832">
+                     <persName>
+                        <forename>Butla</forename>
+                        <surname>Seligmannin</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__43833">
                      <persName>
                         <forename>Moises Marx</forename>
@@ -5196,7 +5367,7 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <listBibl>
                         <bibl>&amp;lt;div&amp;gt;Scheiber, 600 Jahre, 67f.; &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 479 (Dezember 1728).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 1.1, S. 178&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0196.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0196</note><note target="wkfm-0197.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0197</note><note target="wkfm-1645.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1645</note><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note></noteGrp></person>
                 <person xml:id="wkfm__4694" sameAs="#wkfm__4693 ">
                      <persName>
                         <forename>Johann Baptist</forename>
@@ -5264,6 +5435,19 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann, Spezereihandelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-1485.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1485</note><note target="wkfm-1486.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1486</note></noteGrp></person>
+                <person xml:id="wkfm__6935">
+                     <persName>
+                        <forename>Ruprecht</forename>
+                        <surname>Traunpauer</surname>
+                     </persName>
+                     <death><date>1739</date></death>
+                     <occupation>Handelsmann, Spezereihändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <occupation type="aemter">Vorsteher der bürgerl. Handelsleute</occupation>
+                     <listBibl>
+                        <bibl>Dotter, Italienische Kaufleute, passim (Traunpaur); Huchler, Bürgeraufnahmen, 547 (20. März 1719); &amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (20. März 1719)&amp;lt;/span&amp;gt;. Reinhold Reith (Hg.), Das Verlassenschaftsinventar des Salzburger Tuch- und Seidenhändlers Franz Anton Spängler von 1784 (Schriftenreihe des Archivs der Stadt Salzburg 42).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0561.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0561</note></noteGrp></person>
                 <person xml:id="wkfm__7111">
                      <persName>
                         <forename>Georg</forename>
@@ -5380,6 +5564,18 @@ Buchgewerbe (Nürnberg 2003) 671 u.ö.; &amp;lt;span&amp;gt;Kröpfel, Protestant
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0106.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0106</note><note target="wkfm-0107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0107</note></noteGrp></person>
+                <person xml:id="wkfm__8168">
+                     <persName>
+                        <forename>Franz</forename>
+                        <surname>Dellmor</surname>
+                     </persName>
+                     <death><date>1772</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 360 (April 1738).&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0583.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0583</note></noteGrp></person>
                 <person xml:id="wkfm__8186">
                      <persName>
                         <forename>Joseph</forename>
@@ -5463,7 +5659,7 @@ Christian Lünig, Theatrum Ceremoniale Historico-Politicum, Bd. 2
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 471 (31. August 1716).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-25378465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378465</note></noteGrp></person>
+               <noteGrp><note target="wkfm-25378463.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378463</note><note target="wkfm-25378465.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378465</note></noteGrp></person>
                 <person xml:id="wkfm__8277">
                      <persName>
                         <forename>Johann</forename>
@@ -5608,7 +5804,7 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 338 (20. Mai 1715).</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0021</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0020.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0020</note><note target="wkfm-0021.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0021</note></noteGrp></person>
                 <person xml:id="wkfm__8514">
                      <persName>
                         <forename>Matthias</forename>
@@ -5693,6 +5889,18 @@ Inventaris van het familie-archief Brants, 111; &amp;lt;span&amp;gt;Huchler, Bü
                         <bibl>Dotter, Italienische Kaufleute, 112-114; Huchler, Bürgeraufnahmen, 355 (15. Oktober 1723).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0363.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0363</note></noteGrp></person>
+                <person xml:id="wkfm__8590" sameAs="#wkfm__44898 ">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Orrio</surname>
+                        <surname type="alt">Orio</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">hofbefreit</occupation>
+                     <listBibl>
+                        <bibl>Dotter, Italienische Kaufleute, 140f.&amp;lt;br&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1329.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1329</note></noteGrp></person>
                 <person xml:id="wkfm__8591">
                      <persName>
                         <forename>Herculiano</forename>
@@ -5976,7 +6184,7 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      <death><date>1735</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0834</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0833</note><note target="wkfm-0834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0834</note></noteGrp></person>
                 <person xml:id="wkfm__8980">
                      <persName>
                         <forename>None</forename>
@@ -6148,7 +6356,7 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 429 (14. März 1711: &amp;#34;Mathias&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0345.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0345</note><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note></noteGrp></person>
                 <person xml:id="wkfm__9396" sameAs="#wkfm__8335 ">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -6275,7 +6483,7 @@ Schaumburgerhof und dem Freigrunde Hungerbrunn (Wien 1863) 365; &amp;lt;span&amp
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">hofbefreit</occupation>
-               <noteGrp><note target="wkfm-1066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1066</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1065.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1065</note><note target="wkfm-1066.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1066</note></noteGrp></person>
                 <person xml:id="wkfm__9643">
                      <persName>
                         <forename>Johann Jakob</forename>
@@ -6336,7 +6544,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 536 (14. März 1711: &amp;#34;Antonius&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1501</note><note target="wkfm-1502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1502</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1029.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1029</note><note target="wkfm-1501.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1501</note><note target="wkfm-1502.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1502</note><note target="wkfm-1803.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1803</note><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note></noteGrp></person>
                 <person xml:id="wkfm__9740">
                      <persName>
                         <forename>Leopold</forename>
@@ -6538,7 +6746,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 369 (23. April 1725).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0640.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0640</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0639.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0639</note><note target="wkfm-0640.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0640</note></noteGrp></person>
                 <person xml:id="wkfm__10267">
                      <persName>
                         <forename>Matthias</forename>
@@ -6599,7 +6807,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 384 (12. April 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0824.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0824</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0823.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0823</note><note target="wkfm-0824.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0824</note></noteGrp></person>
                 <person xml:id="wkfm__10559">
                      <persName>
                         <forename>Joseph</forename>
@@ -6675,7 +6883,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 451 (Juni 1728).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1189.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1189</note><note target="wkfm-1191.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1191</note><note target="wkfm-1227.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1227</note><note target="wkfm-1228.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1228</note><note target="wkfm-1679.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1679</note></noteGrp></person>
                 <person xml:id="wkfm__10872">
                      <persName>
                         <forename>Andre</forename>
@@ -6705,7 +6913,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <occupation>Leinwandhändler</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0555.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0555</note><note target="wkfm-0556.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0556</note></noteGrp></person>
                 <person xml:id="wkfm__11199">
                      <persName>
                         <forename>Ferdinand</forename>
@@ -6729,6 +6937,18 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 443 (unklar: 1. Futterhändler [6. April 1712], 2. Handelsmann [2. März 1716]).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1107.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1107</note></noteGrp></person>
+                <person xml:id="wkfm__11690" sameAs="#wkfm__10896 ">
+                     <persName>
+                        <forename>Albert</forename>
+                        <forename type="alt">Albrecht</forename>
+                        <surname>Albertini</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>Huchler, Bürgeraufnahmen, 338 (6. Februar 1713).</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0018.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0018</note></noteGrp></person>
                 <person xml:id="wkfm__11695">
                      <persName>
                         <forename>Karl Anton</forename>
@@ -7045,7 +7265,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 547 (14. Jänner 1715: &amp;#34;Triebaumer&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0550.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0550</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0549.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0549</note><note target="wkfm-0550.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0550</note></noteGrp></person>
                 <person xml:id="wkfm__15292">
                      <persName>
                         <forename>Joseph</forename>
@@ -7107,7 +7327,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 531 (15. September 1706).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note><note target="wkfm-1492.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1492</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0897.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0897</note><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note><note target="wkfm-1491.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1491</note><note target="wkfm-1492.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1492</note></noteGrp></person>
                 <person xml:id="wkfm__15535">
                      <persName>
                         <forename>Joseph</forename>
@@ -7118,7 +7338,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 363 (August 1729).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0568</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0567.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0567</note><note target="wkfm-0568.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0568</note></noteGrp></person>
                 <person xml:id="wkfm__15544">
                      <persName>
                         <forename>Johann Georg</forename>
@@ -7258,7 +7478,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 342 (April 1730).</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0027.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0027</note><note target="wkfm-0038.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0038</note><note target="wkfm-0039.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0039</note></noteGrp></person>
                 <person xml:id="wkfm__17362">
                      <persName>
                         <forename>Franz Xaver</forename>
@@ -7484,7 +7704,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 544 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0578.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0578</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0577.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0577</note><note target="wkfm-0578.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0578</note></noteGrp></person>
                 <person xml:id="wkfm__20661">
                      <persName>
                         <forename>Andreas</forename>
@@ -7655,7 +7875,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 474 (6. Februar 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1336</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1335.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1335</note><note target="wkfm-1336.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1336</note></noteGrp></person>
                 <person xml:id="wkfm__23401" sameAs="#wkfm__31296 ">
                      <persName>
                         <forename>Claudius</forename>
@@ -7797,7 +8017,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>Harrer-Lucienfeld, Wien, seiner Häuser, Bd. 4.3, S. 541.&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-25378461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378461</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1659.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1659</note><note target="wkfm-25378458.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378458</note><note target="wkfm-25378461.xml" type="mentions">Wiener Merkantilprotokoll Nr. 25378461</note></noteGrp></person>
                 <person xml:id="wkfm__24071">
                      <persName>
                         <forename>Leopold</forename>
@@ -7832,7 +8052,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 390 (Dezember 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0883.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0883</note><note target="wkfm-0884.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0884</note><note target="wkfm-1635.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1635</note><note target="wkfm-1649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1649</note></noteGrp></person>
                 <person xml:id="wkfm__24258" sameAs="#wkfm__22866 ">
                      <persName>
                         <forename>Johann Sebastian</forename>
@@ -7845,7 +8065,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 273 (Juni 1732: Vorname nur &amp;#34;Sebastian&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0307.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0307</note><note target="wkfm-0649.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0649</note><note target="wkfm-0650.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0650</note><note target="wkfm-0657.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0657</note><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
                 <person xml:id="wkfm__24324">
                      <persName>
                         <forename>Philipp</forename>
@@ -8211,7 +8431,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <death><date>1763</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0850</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0849</note><note target="wkfm-0850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0850</note></noteGrp></person>
                 <person xml:id="wkfm__28298">
                      <persName>
                         <forename>Claudius</forename>
@@ -8224,7 +8444,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 423 (6. August 1721).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1074</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1073.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1073</note><note target="wkfm-1074.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1074</note></noteGrp></person>
                 <person xml:id="wkfm__28324" sameAs="#wkfm__27585 ">
                      <persName>
                         <forename>Franz Joseph</forename>
@@ -8236,7 +8456,7 @@ Donaumonarchie 6, Neu bearbeitete, deutschsprachige Ausgabe Wien 2013)
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 437 (Juli 1733; &amp;#34;Krembsreitter&amp;#34;)&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0879.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0879</note><note target="wkfm-0880.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0880</note><note target="wkfm-0909.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0909</note><note target="wkfm-0928.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0928</note></noteGrp></person>
                 <person xml:id="wkfm__28337" sameAs="#wkfm__42963 wkfm__19341 wkfm__20497 ">
                      <persName>
                         <forename>Viktor Maria</forename>
@@ -8482,7 +8702,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573 (Dezember 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1843.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1843</note><note target="wkfm-1844.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1844</note></noteGrp></person>
                 <person xml:id="wkfm__34859" sameAs="#wkfm__15571 wkfm__16401 ">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -8560,7 +8780,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <death><date>1748</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
                 <person xml:id="wkfm__36936">
                      <persName>
                         <forename>Veit Joseph</forename>
@@ -8615,7 +8835,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 442 (Dezember 1730).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0041.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0041</note><note target="wkfm-0297.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0297</note><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note><note target="wkfm-1161.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1161</note><note target="wkfm-1162.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1162</note></noteGrp></person>
                 <person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
@@ -8627,7 +8847,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (Jänner 1741).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note><note target="wkfm-1325.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1325</note></noteGrp></person>
                 <person xml:id="wkfm__37766">
                      <persName>
                         <forename>Jakob</forename>
@@ -8683,6 +8903,18 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 490 (Dezember 1733: &amp;#34;Joseph&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0208.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0208</note><note target="wkfm-0209.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0209</note><note target="wkfm-0769.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0769</note><note target="wkfm-0771.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0771</note></noteGrp></person>
+                <person xml:id="wkfm__39391">
+                     <persName>
+                        <forename>Philipp</forename>
+                        <surname>Trenker</surname>
+                        <surname type="alt">Trenckher</surname>
+                     </persName>
+                     <occupation>Leinwandhändler</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 547 (Mai 17837: &amp;#34;Tremkher&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0589.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0589</note></noteGrp></person>
                 <person xml:id="wkfm__39393">
                      <persName>
                         <forename>Matthias</forename>
@@ -8723,6 +8955,18 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 547 (5. April 1723).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0559.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0559</note><note target="wkfm-0560.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0560</note></noteGrp></person>
+                <person xml:id="wkfm__40477">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Graf</surname>
+                        <surname type="alt">Graff</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 391 (März 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0885.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0885</note></noteGrp></person>
                 <person xml:id="wkfm__40592">
                      <persName>
                         <forename>Johann Karl</forename>
@@ -8791,7 +9035,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (Februar 1737).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0346.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0346</note><note target="wkfm-0475.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0475</note><note target="wkfm-0476.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0476</note><note target="wkfm-0579.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0579</note><note target="wkfm-0580.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0580</note></noteGrp></person>
                 <person xml:id="wkfm__41690">
                      <persName>
                         <forename>Jakob</forename>
@@ -8803,7 +9047,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (6. Februar 1700).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0628.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0628</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0627.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0627</note><note target="wkfm-0628.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0628</note></noteGrp></person>
                 <person xml:id="wkfm__41747">
                      <persName>
                         <forename>Johann</forename>
@@ -9058,7 +9302,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 472 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1344</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1343.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1343</note><note target="wkfm-1344.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1344</note></noteGrp></person>
                 <person xml:id="wkfm__43858">
                      <persName>
                         <forename>Matthäus</forename>
@@ -9070,6 +9314,17 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 571 (Februar 1733).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1839.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1839</note><note target="wkfm-1840.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1840</note></noteGrp></person>
+                <person xml:id="wkfm__43860">
+                     <persName>
+                        <forename>Adam</forename>
+                        <surname>Zott</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 573 (Dezember 1742).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1845.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1845</note></noteGrp></person>
                 <person xml:id="wkfm__43862">
                      <persName>
                         <forename>Philipp Matthias</forename>
@@ -9093,7 +9348,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 569 (September 1747).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1849.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1849</note><note target="wkfm-1850.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1850</note></noteGrp></person>
                 <person xml:id="wkfm__43868">
                      <persName>
                         <forename>Jakob</forename>
@@ -9138,6 +9393,17 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Juni 1731).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1083.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1083</note></noteGrp></person>
+                <person xml:id="wkfm__43874">
+                     <persName>
+                        <forename>Johann Adam</forename>
+                        <surname>Jezinger</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Dezember 1744).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1087.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1087</note></noteGrp></person>
                 <person xml:id="wkfm__43876">
                      <persName>
                         <forename>Jakob</forename>
@@ -9149,7 +9415,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 422 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1090</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1089.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1089</note><note target="wkfm-1090.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1090</note></noteGrp></person>
                 <person xml:id="wkfm__43879" sameAs="#wkfm__47644 ">
                      <persName>
                         <forename>Matthäus</forename>
@@ -9643,7 +9909,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <death><date>1757</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0303.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0303</note><note target="wkfm-0553.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0553</note><note target="wkfm-0554.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0554</note><note target="wkfm-0593.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0593</note><note target="wkfm-0594.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0594</note><note target="wkfm-0596.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0596</note></noteGrp></person>
                 <person xml:id="wkfm__43998">
                      <persName>
                         <forename>Ignaz</forename>
@@ -10261,7 +10527,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <death><date>1776</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0538</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0537.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0537</note><note target="wkfm-0538.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0538</note></noteGrp></person>
                 <person xml:id="wkfm__46221">
                      <persName>
                         <forename>Giacomo Antonio</forename>
@@ -10296,7 +10562,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 364 (5. November 1721: &amp;#34;Dogneto&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0552.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0552</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0551.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0551</note><note target="wkfm-0552.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0552</note></noteGrp></person>
                 <person xml:id="wkfm__46233">
                      <persName>
                         <forename>Matthias</forename>
@@ -10320,6 +10586,19 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 366 (Juni 1732).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0571.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0571</note><note target="wkfm-0572.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0572</note></noteGrp></person>
+                <person xml:id="wkfm__46264">
+                     <persName>
+                        <forename>Johann Leopold</forename>
+                        <surname>Diewald</surname>
+                        <surname type="alt">Diwalt</surname>
+                     </persName>
+                     <death><date>1773</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 362 (April 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0585.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0585</note></noteGrp></person>
                 <person xml:id="wkfm__46267">
                      <persName>
                         <forename>Johann Ferdinand</forename>
@@ -10344,7 +10623,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 361 (September 1739).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0592.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0592</note><note target="wkfm-1270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1270</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0591.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0591</note><note target="wkfm-0592.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0592</note><note target="wkfm-1270.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1270</note></noteGrp></person>
                 <person xml:id="wkfm__46273">
                      <persName>
                         <forename>Leopold</forename>
@@ -10401,6 +10680,17 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 548 (März 1742: &amp;#34;Turi&amp;#34;).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0599.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0599</note><note target="wkfm-0600.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0600</note></noteGrp></person>
+                <person xml:id="wkfm__46284">
+                     <persName>
+                        <forename>Johann Michael</forename>
+                        <surname>Traunfellner</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 546 (September 1747).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0601.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0601</note></noteGrp></person>
                 <person xml:id="wkfm__46286">
                      <persName>
                         <forename>Joseph Leopold</forename>
@@ -10457,6 +10747,15 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <occupation>Angestellter bei Melchior Rathgeb, Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0609.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0609</note></noteGrp></person>
+                <person xml:id="wkfm__46296">
+                     <persName>
+                        <forename>Franz Joseph</forename>
+                        <surname>Dick</surname>
+                        <surname type="alt">Dikh</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0611.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0611</note></noteGrp></person>
                 <person xml:id="wkfm__46302">
                      <persName>
                         <forename>Joseph</forename>
@@ -10477,7 +10776,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 389 (13 November 1722).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0852.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0852</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note><note target="wkfm-0852.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0852</note></noteGrp></person>
                 <person xml:id="wkfm__46321">
                      <persName>
                         <forename>Johann Michael</forename>
@@ -10590,7 +10889,18 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 383 (März 1727).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0882.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0882</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0881</note><note target="wkfm-0882.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0882</note></noteGrp></person>
+                <person xml:id="wkfm__46353">
+                     <persName>
+                        <forename>Johann Sigmund</forename>
+                        <surname>Gewey</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 387 (April 1738).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0887.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0887</note></noteGrp></person>
                 <person xml:id="wkfm__46356">
                      <persName>
                         <forename>Johann Joseph</forename>
@@ -10620,7 +10930,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 396 (Juni 1742, dort als Fleischhacker bezeichnet!).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0894</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-0894.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0894</note></noteGrp></person>
                 <person xml:id="wkfm__46365">
                      <persName>
                         <forename>Thomas</forename>
@@ -10631,7 +10941,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 522 (1. Dezember 1717).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1509.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1509</note><note target="wkfm-1510.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1510</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0893.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0893</note><note target="wkfm-1509.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1509</note><note target="wkfm-1510.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1510</note></noteGrp></person>
                 <person xml:id="wkfm__46371">
                      <persName>
                         <forename>Joseph</forename>
@@ -10642,7 +10952,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 395 (September 1743).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0897.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0897</note><note target="wkfm-0898.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0898</note></noteGrp></person>
                 <person xml:id="wkfm__46373">
                      <persName>
                         <forename>Johann Ignaz</forename>
@@ -10671,7 +10981,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <death><date>1759</date></death>
                      <occupation>Tuchhändler</occupation>
                      <occupation type="kaufmannsklasse">tuchlaubensverwandt/bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0903.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0903</note><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
                 <person xml:id="wkfm__46381">
                      <persName>
                         <forename>Maria Franziska</forename>
@@ -10679,7 +10989,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <surname type="alt">Wolfmayrin</surname>
                         <surname type="alt">Gapieller</surname>
                      </persName>
-               <noteGrp><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0903.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0903</note><note target="wkfm-0904.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0904</note></noteGrp></person>
                 <person xml:id="wkfm__46382">
                      <persName>
                         <forename>Johann Friedrich</forename>
@@ -10687,7 +10997,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0905.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0905</note><note target="wkfm-0906.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0906</note></noteGrp></person>
                 <person xml:id="wkfm__46385">
                      <persName>
                         <forename>Andre</forename>
@@ -10730,7 +11040,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <death><date>1741</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0626.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0626</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0625.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0625</note><note target="wkfm-0626.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0626</note></noteGrp></person>
                 <person xml:id="wkfm__46406" sameAs="#wkfm__31347 ">
                      <persName>
                         <forename>Johann</forename>
@@ -10738,7 +11048,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      </persName>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0630.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0630</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0629.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0629</note><note target="wkfm-0630.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0630</note></noteGrp></person>
                 <person xml:id="wkfm__46408">
                      <persName>
                         <forename>Andre</forename>
@@ -10750,7 +11060,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (14. Februar 1710!).&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0632</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0631.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0631</note><note target="wkfm-0632.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0632</note></noteGrp></person>
                 <person xml:id="wkfm__46410">
                      <persName>
                         <forename>Johann Anton</forename>
@@ -10762,7 +11072,7 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                      <listBibl>
                         <bibl>Huchler, Bürgeraufnahmen, 371 (15. Mai 1711).&amp;lt;br&amp;gt;</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-0634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0634</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0633.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0633</note><note target="wkfm-0634.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0634</note></noteGrp></person>
                 <person xml:id="wkfm__46417">
                      <persName>
                         <forename>None</forename>
@@ -10844,6 +11154,15 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 372 (Dezember 1746).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0663.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0663</note></noteGrp></person>
+                <person xml:id="wkfm__46441" sameAs="#wkfm__15869 ">
+                     <persName>
+                        <forename>Johann Karl</forename>
+                        <surname>Egger</surname>
+                     </persName>
+                     <death><date>1752</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0665.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0665</note></noteGrp></person>
                 <person xml:id="wkfm__46454">
                      <persName>
                         <forename>Franz Karl</forename>
@@ -11012,6 +11331,15 @@ Kais. Kön. Heraldischen Gesellschaft &amp;#34;Adler&amp;#34; Bd. 3, Nr. 34 (Nr 
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 411 (März 1734).&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-1013.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1013</note></noteGrp></person>
+                <person xml:id="wkfm__46510">
+                     <persName>
+                        <forename>Hieronymus</forename>
+                        <surname>Helmsteiner</surname>
+                        <surname type="alt">Helmbsteiner</surname>
+                     </persName>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1017.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1017</note></noteGrp></person>
                 <person xml:id="wkfm__46515">
                      <persName>
                         <forename>Ferdinand Johann</forename>

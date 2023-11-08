@@ -72,15 +72,36 @@
       
    </facsimile>
    <text>
-      <body>
+       <body>
         <div>
             <pb facs="#facs_39" n="39" xml:id="img_0039" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0851.jpg"/>
             
             <ab facs="#facs_39_r2" type="page-number">
                <lb facs="#facs_39_r2l1" n="N001"/>423
             </ab>
+            <ab facs="#facs_39_r1">
+               <lb facs="#facs_39_r1l2" n="N001"/><seg type="orighead__name">Nahmen und Class</seg>
+               <lb facs="#facs_39_r1l3" n="N002"/><rs type="person" ref="#wkfm__46319">Goffet Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_39_r1l4" n="N003"/><seg type="orighead__firma">Firma ad Raggion</seg>
+               <lb facs="#facs_39_r1l5" n="N004"/><rs type="person" ref="#wkfm__46320">Joseph Goffet</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 399
+               <lb facs="#facs_39_r1l7" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_39_r1l8" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_39_r1l9" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
+            </ab>
             
         </div>
       </body>
-    <back/></text>
+    <back><listPerson><person xml:id="wkfm__46319">
+                     <persName>
+                        <forename>Joseph</forename>
+                        <surname>Goffet</surname>
+                     </persName>
+                     <death><date>1765</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 389 (13 November 1722).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-0851.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0851</note><note target="wkfm-0852.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0852</note></noteGrp></person>
+                </listPerson></back></text>
 </TEI>

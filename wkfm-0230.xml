@@ -110,6 +110,14 @@
                      </persName>
                      <occupation>Handelsmann</occupation>
                <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
+                <person xml:id="wkfm__47356">
+                     <persName>
+                        <forename>Maria Anna</forename>
+                        <surname>Freisin [?]</surname>
+                        <surname type="alt">Freißin [?]</surname>
+                        <surname type="alt">Piller</surname>
+                     </persName>
+               <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
                 <person xml:id="wkfm__22485">
                      <persName>
                         <forename>Matthias</forename>
@@ -122,13 +130,5 @@
                         <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 484 (Dezember 1735).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0229.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0229</note><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note><note target="wkfm-1283.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1283</note></noteGrp></person>
-                <person xml:id="wkfm__47356">
-                     <persName>
-                        <forename>Maria Anna</forename>
-                        <surname>Freisin [?]</surname>
-                        <surname type="alt">Freißin [?]</surname>
-                        <surname type="alt">Piller</surname>
-                     </persName>
-               <noteGrp><note target="wkfm-0230.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0230</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

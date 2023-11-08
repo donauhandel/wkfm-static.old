@@ -91,6 +91,6 @@
                      <death><date>1735</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0834</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0833.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0833</note><note target="wkfm-0834.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0834</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

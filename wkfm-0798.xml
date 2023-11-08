@@ -97,17 +97,7 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
-                     <persName>
-                        <forename>Johann Leonhard</forename>
-                        <surname>Bittoni</surname>
-                        <surname type="alt">Pittoni</surname>
-                     </persName>
-                     <death><date>1748</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
-                <person xml:id="wkfm__42886">
+    <back><listPerson><person xml:id="wkfm__42886">
                      <persName>
                         <forename>Bernhard</forename>
                         <surname>Falquet</surname>
@@ -133,5 +123,15 @@
                         <bibl>&amp;lt;span&amp;gt;&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 373 (Dezember 1748).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;</bibl>
                      </listBibl>
                <noteGrp><note target="wkfm-0797.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0797</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note></noteGrp></person>
+                <person xml:id="wkfm__10201" sameAs="#wkfm__8501 ">
+                     <persName>
+                        <forename>Johann Leonhard</forename>
+                        <surname>Bittoni</surname>
+                        <surname type="alt">Pittoni</surname>
+                     </persName>
+                     <death><date>1748</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-0130.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0130</note><note target="wkfm-0131.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0131</note><note target="wkfm-0798.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0798</note><note target="wkfm-1263.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1263</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

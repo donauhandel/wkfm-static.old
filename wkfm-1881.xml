@@ -105,7 +105,7 @@
                      <listBibl>
                         <bibl>Wachstein, Die Wiener Juden in Handel und Industrie.</bibl>
                      </listBibl>
-               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note></noteGrp></person>
+               <noteGrp><note target="wkfm-1881.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1881</note><note target="wkfm-1889.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1889</note></noteGrp></person>
                 <person xml:id="wkfm__9652">
                      <persName>
                         <forename>Marx</forename>

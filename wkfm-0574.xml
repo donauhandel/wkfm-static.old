@@ -90,6 +90,6 @@
                      <death><date>1748</date></death>
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
+               <noteGrp><note target="wkfm-0573.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0573</note><note target="wkfm-0574.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0574</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
