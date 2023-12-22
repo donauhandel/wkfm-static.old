@@ -113,7 +113,19 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__37748">
+    <back><listPerson><person xml:id="wkfm__46676">
+                     <persName>
+                        <forename>David Adam</forename>
+                        <surname>Nachbauer</surname>
+                     </persName>
+                     <death><date>1774?</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+                     <listBibl>
+                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 468 (Dezember 1748).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
+                     </listBibl>
+               <noteGrp><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
+                <person xml:id="wkfm__37748">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Dietschi</surname>
@@ -131,17 +143,5 @@
                         <surname>Pelser</surname>
                      </persName>
                <noteGrp><note target="wkfm-0809.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0809</note><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
-                <person xml:id="wkfm__46676">
-                     <persName>
-                        <forename>David Adam</forename>
-                        <surname>Nachbauer</surname>
-                     </persName>
-                     <death><date>1774?</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-                     <listBibl>
-                        <bibl>&amp;lt;span&amp;gt;Huchler, Bürgeraufnahmen, 468 (Dezember 1748).&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</bibl>
-                     </listBibl>
-               <noteGrp><note target="wkfm-1323.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1323</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>

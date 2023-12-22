@@ -129,12 +129,13 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__47060">
+    <back><listPerson><person xml:id="wkfm__47058">
                      <persName>
-                        <forename>Johann</forename>
-                        <surname>Merl</surname>
+                        <forename>Eva Elisabeth</forename>
+                        <surname>Feroni</surname>
+                        <surname type="alt">Ferronin</surname>
                      </persName>
-                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
+                     <occupation>Prokuristin bei Johann Baptist Feroni, Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 <person xml:id="wkfm__47061">
                      <persName>
@@ -143,13 +144,12 @@
                      </persName>
                      <occupation>Angestellter und Prokurist bei Eval Elisabeth Feronin (Johann Baptist Feroni sel. Witwe)</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
-                <person xml:id="wkfm__47058">
+                <person xml:id="wkfm__47060">
                      <persName>
-                        <forename>Eva Elisabeth</forename>
-                        <surname>Feroni</surname>
-                        <surname type="alt">Ferronin</surname>
+                        <forename>Johann</forename>
+                        <surname>Merl</surname>
                      </persName>
-                     <occupation>Prokuristin bei Johann Baptist Feroni, Handelsfrau</occupation>
+                     <occupation>Angestellter und Prokurist bei Johann Baptist Feroni</occupation>
                <noteGrp><note target="wkfm-0681.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0681</note></noteGrp></person>
                 <person xml:id="wkfm__47059">
                      <persName>

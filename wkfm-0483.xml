@@ -126,13 +126,11 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46178">
+    <back><listPerson><person xml:id="wkfm__46177">
                      <persName>
-                        <forename>Theresia Juliana</forename>
-                        <surname>Gräfin</surname>
-                        <surname type="alt">Gräffin</surname>
+                        <forename>Jakob</forename>
+                        <surname>Kraschink</surname>
                      </persName>
-                     <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 <person xml:id="wkfm__46176">
                      <persName>
@@ -144,11 +142,13 @@
                      <occupation>Handelsmann</occupation>
                      <occupation type="kaufmannsklasse">bürgerlich</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
-                <person xml:id="wkfm__46177">
+                <person xml:id="wkfm__46178">
                      <persName>
-                        <forename>Jakob</forename>
-                        <surname>Kraschink</surname>
+                        <forename>Theresia Juliana</forename>
+                        <surname>Gräfin</surname>
+                        <surname type="alt">Gräffin</surname>
                      </persName>
+                     <occupation>Handelsfrau</occupation>
                <noteGrp><note target="wkfm-0483.xml" type="mentions">Wiener Merkantilprotokoll Nr. 0483</note></noteGrp></person>
                 <person xml:id="wkfm__13628">
                      <persName>

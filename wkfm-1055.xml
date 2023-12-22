@@ -111,7 +111,16 @@
             
         </div>
       </body>
-    <back><listPerson><person xml:id="wkfm__46168">
+    <back><listPerson><person xml:id="wkfm__46566">
+                     <persName>
+                        <forename>Johann Sebastian</forename>
+                        <surname>Heigl</surname>
+                     </persName>
+                     <death><date>1779</date></death>
+                     <occupation>Handelsmann</occupation>
+                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
+               <noteGrp><note target="wkfm-1055.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1055</note><note target="wkfm-1056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1056</note></noteGrp></person>
+                <person xml:id="wkfm__46168">
                      <persName>
                         <forename>Johann</forename>
                         <surname>Kollmann</surname>
@@ -135,14 +144,5 @@
                         <surname>Heigl</surname>
                      </persName>
                <noteGrp><note target="wkfm-1055.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1055</note></noteGrp></person>
-                <person xml:id="wkfm__46566">
-                     <persName>
-                        <forename>Johann Sebastian</forename>
-                        <surname>Heigl</surname>
-                     </persName>
-                     <death><date>1779</date></death>
-                     <occupation>Handelsmann</occupation>
-                     <occupation type="kaufmannsklasse">bürgerlich</occupation>
-               <noteGrp><note target="wkfm-1055.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1055</note><note target="wkfm-1056.xml" type="mentions">Wiener Merkantilprotokoll Nr. 1056</note></noteGrp></person>
                 </listPerson></back></text>
 </TEI>
